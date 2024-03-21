@@ -41,5 +41,7 @@ Under Linux, you can compile and run an example by the following code:
 cd MPM3D-F90
 cmake .
 make
+或者
+ninja
 ./mpm3d Data/Deto1k.mpm
 ```
